@@ -1,0 +1,69 @@
+﻿# Coloring Map For （ ）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BME82M131	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################	
+begin	KEYWORD2
+
+getINT	KEYWORD2
+getNumber	KEYWORD2
+readALS	KEYWORD2
+readWhite	KEYWORD2
+readLux	KEYWORD2
+getInterruptFalg	KEYWORD2
+
+getPowerSavingMode	KEYWORD2
+getPowerSavingModeStatus	KEYWORD2
+getMoudleStatus	KEYWORD2
+isInterruptEnabled	KEYWORD2
+getPersistence	KEYWORD2
+getIntegrationTime	KEYWORD2
+getGain	KEYWORD2
+getHighThreshold	KEYWORD2
+getLowThreshold	KEYWORD2
+
+setPowerSavingMode	KEYWORD2
+setPowerSavingModeStatus	KEYWORD2
+ALSOn	KEYWORD2
+ALSDown	KEYWORD2
+setInterruptStatus	KEYWORD2
+setPersistence	KEYWORD2
+setIntegrationTime	KEYWORD2
+setGain	KEYWORD2
+setHighThreshold	KEYWORD2
+setLowThreshold	KEYWORD2	
+##############################################
+# Constants (LITERAL1)
+##############################################
+GAIN_1	LITERAL1        
+GAIN_2	LITERAL1		
+GAIN_1_8	LITERAL1     
+GAIN_1_4	LITERAL1		
+IT_25ms	LITERAL1
+IT_50ms	LITERAL1
+IT_100ms	LITERAL1
+IT_200ms	LITERAL1
+IT_400ms	LITERAL1
+IT_800ms	LITERAL1	 		
+PERS_1	LITERAL1				
+PERS_2	LITERAL1
+PERS_4	LITERAL1	
+PERS_8	LITERAL1			
+INT_DISABLE	LITERAL1
+INT_ENABLE	LITERAL1		
+POWER_ON	LITERAL1
+SHUT_DOWN	LITERAL1		
+POWER_SAVING_MODE1	LITERAL1                          
+POWER_SAVING_MODE2	LITERAL1						
+POWER_SAVING_MODE3	LITERAL1					
+POWER_SAVING_MODE4	LITERAL1				 		
+POWER_SAVING_MODE_DISABLE	LITERAL1                          
+POWER_SAVING_MODE_ENABLE	LITERAL1		
+INT_STATUS_NONE	LITERAL1
+INT_STATUS_HIGH	LITERAL1
+INT_STATUS_LOW	LITERAL1
+INT_STATUS_BOTH	LITERAL1
