@@ -1,15 +1,15 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMV23M001_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BME82M131_V1.0.png" width="320" height="240"> 
 </div> 
 
 
-BMV23M001
+BME82M131
 ===========================================================
 
-The BMV23M001 is a sound detection module launched by Basetron, which uses I2C communication method.This document describes the Arduino Lib function and Arduino Lib installation method of BMV23M001. The sample demonstrates the state of getting ambient sounds.
+The BME82M131 is an ambient light detection module launched by Flextron, which uses I2C communication methods. This document describes the Arduino Lib function and Arduino Lib installation method of BME82M131. Examples demonstrate features such as reading ambient light intensity.
 
 
-This library can be installed via the Arduino Library manager. Search for **BMV23M001**. 
+This library can be installed via the Arduino Library manager. Search for **BME82M131**. 
 
 Repository Contents
 -------------------
@@ -22,7 +22,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMV23M001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmv23m001.html#tab-product2 )** - Arduino Library Description.
+* **[BME82M131 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bme82m131.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
