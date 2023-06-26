@@ -6,8 +6,7 @@
 BME82M131
 ===========================================================
 
-The BME82M131 is an ambient light detection module launched by Flextron, which uses I2C communication methods. This document describes the Arduino Lib function and Arduino Lib installation method of BME82M131. Examples demonstrate features such as reading ambient light intensity.
-
+The Best Modules BME82M131 is an ambient light detection module, which uses the I2C communication method. This document describes the Arduino Lib function of the BME82M131 and how to install the Arduino Lib. The example demonstrates how to obtain the ambient light intensity.
 
 This library can be installed via the Arduino Library manager. Search for **BME82M131**. 
 
