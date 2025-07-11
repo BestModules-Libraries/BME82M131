@@ -6,7 +6,7 @@
 BME82M131
 ===========================================================
 
-The Best Modules BME82M131 is an ambient light detection module, which uses the I2C communication method. This document describes the Arduino Lib function of the BME82M131 and how to install the Arduino Lib. The example demonstrates how to obtain the ambient light intensity.
+The BESTMODULES BME82M131 is an ambient light detection module, which uses the I2C communication method. This document describes the Arduino Lib function of the BME82M131 and how to install the Arduino Lib. The example demonstrates how to obtain the ambient light intensity.
 
 This library can be installed via the Arduino Library manager. Search for **BME82M131**. 
 
@@ -30,6 +30,8 @@ Version History
 &emsp;&emsp;- Initial public release.
 * **V1.0.2**  
 &emsp;&emsp;- Change variable type u16 to uint16_t.  
+* **V1.0.3**  
+&emsp;&emsp;- Add applicable models: BME82M131A;
 
 License Information
 -------------------

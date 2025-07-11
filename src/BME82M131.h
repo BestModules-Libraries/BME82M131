@@ -2,7 +2,7 @@
 File:             BME82M131.h
 Author:           BEST MODULES CORP.
 Description:      Define classes and required variables
-Version:          V1.0.2 --2024-07-15
+Version:          V1.0.3 --2025-05-29
 ******************************************************************/
 #ifndef _H
 #define _H

@@ -2,7 +2,7 @@
 File:        BME82M131.cpp
 Author:      BEST MODULES CORP.
 Description: I2C communication with the BME82M131 and obtain the corresponding value  
-Version:     V1.0.2 --2024-07-15
+Version:     V1.0.3 --2025-05-29
 ******************************************************************/
 #include "BME82M131.h"
 /*********************************************************************************
